@@ -246,7 +246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   listBoid: {fileID: 11400000, guid: f93bf39554b4b0f4298844f926160acd, type: 2}
   boundary: {fileID: 11400000, guid: 601fe3f13dd97054ca76c3260b104afb, type: 2}
-  boidPrefab: {fileID: 4108557295508708257, guid: c5d7d54c22a92ba4393eb228b854775b, type: 3}
+  boidPrefab: {fileID: 7511482921641507990, guid: c5d7d54c22a92ba4393eb228b854775b, type: 3}
   boidCnt: 10
 --- !u!4 &1872664939
 Transform:
